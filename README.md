@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sh3rin3j3sna
 - 👀 I’m interested in ML in health science but not limited to
-- 🌱 I’m currently learning Github and Tensor flow
+- 🌱 I’m currently learning  Tensor flow and MLOPs
 - 💞️ I’m looking to collaborate on Machine Learning and MLOPS projects
 - 📫 How to reach me ...
 
